@@ -120,7 +120,7 @@ main StratumStats repository.
 
 ## Development
 
-Requires Go 1.27.3 or newer and has no third-party Go dependencies.
+Requires Go 1.27.4 or newer and has no third-party Go dependencies.
 
 ```sh
 go test ./...

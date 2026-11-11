@@ -1,3 +1,3 @@
 module github.com/M45Core/StratumScout
 
-go 1.27.3
+go 1.27.4
